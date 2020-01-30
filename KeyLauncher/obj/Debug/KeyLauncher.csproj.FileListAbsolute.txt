@@ -1,0 +1,11 @@
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\bin\Debug\KeyLauncher.exe.config
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\bin\Debug\KeyLauncher.exe
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\bin\Debug\KeyLauncher.pdb
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\obj\Debug\KeyLauncher.csprojResolveAssemblyReference.cache
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\obj\Debug\KeyLauncher.Form1.resources
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\obj\Debug\KeyLauncher.Properties.Resources.resources
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\obj\Debug\KeyLauncher.csproj.GenerateResource.Cache
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\obj\Debug\KeyLauncher.exe
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\obj\Debug\KeyLauncher.pdb
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\obj\Debug\KeyLauncher.frmChoose.resources
+d:\users\tom\documents\visual studio 2012\Projects\KeyLauncher\KeyLauncher\obj\Debug\KeyLauncher.FileBrowser.resources
